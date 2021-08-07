@@ -1,0 +1,32 @@
+PODS:
+  - FittedSheets (2.4.1)
+  - GoogleMaps (5.1.0):
+    - GoogleMaps/Maps (= 5.1.0)
+  - GoogleMaps/Base (5.1.0)
+  - GoogleMaps/Maps (5.1.0):
+    - GoogleMaps/Base
+  - GooglePlaces (5.0.0)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - FittedSheets
+  - GoogleMaps
+  - GooglePlaces
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - FittedSheets
+    - GoogleMaps
+    - GooglePlaces
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  FittedSheets: 839b9d261e446cfa9ae8d7229d266f22b30f8be8
+  GoogleMaps: 086ae1dab659eaa7339bdb30fc88e2f44e7c597c
+  GooglePlaces: 5d87ca13ed98b7a937e0d8bc7026f718c7263271
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: bcb11467b61e90f0cc5e3b3496b57bf4c952594d
+
+COCOAPODS: 1.10.1

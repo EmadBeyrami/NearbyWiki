@@ -1,0 +1,16 @@
+//
+//  Production.xcconfig
+//  LocationBased Wikipedia
+//
+//  Created by Emad Bayramy on 8/1/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Nearby Wiki
+STR_BASE_BUNDLE_ID = com.beyrami.LocationBased-Wikipedia
+STR_URL_SCHEME = NearbyWiki
+STR_APP_ICON = AppIcon-prod
+Wiki_Base_Url = https:\/\/en.wikipedia.org\/w\/api.php
+Google_Base_URL = https:\/\/maps.googleapis.com

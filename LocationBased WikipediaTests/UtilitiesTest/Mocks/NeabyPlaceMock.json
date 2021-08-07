@@ -1,0 +1,458 @@
+
+{
+  "query" : {
+    "geosearch" : [
+      {
+        "pageid" : 38503620,
+        "primary" : "",
+        "dist" : 71.299999999999997,
+        "ns" : 0,
+        "title" : "John's Grill",
+        "lon" : -122.4069331,
+        "lat" : 37.785339100000002
+      },
+      {
+        "pageid" : 47938397,
+        "primary" : "",
+        "dist" : 71.700000000000003,
+        "ns" : 0,
+        "title" : "Union Square\/Market Street station",
+        "lon" : -122.40593200000001,
+        "lat" : 37.786352999999998
+      },
+      {
+        "pageid" : 16087033,
+        "primary" : "",
+        "dist" : 96.5,
+        "ns" : 0,
+        "title" : "Alcazar Theatre (1885)",
+        "lon" : -122.40709,
+        "lat" : 37.786520000000003
+      },
+      {
+        "pageid" : 39480592,
+        "primary" : "",
+        "dist" : 96.799999999999997,
+        "ns" : 0,
+        "title" : "Humboldt Bank Building",
+        "lon" : -122.405323,
+        "lat" : 37.785932000000003
+      },
+      {
+        "pageid" : 42614759,
+        "primary" : "",
+        "dist" : 115.7,
+        "ns" : 0,
+        "title" : "Phelan Building",
+        "lon" : -122.40550229999999,
+        "lat" : 37.786582799999998
+      },
+      {
+        "pageid" : 13376381,
+        "primary" : "",
+        "dist" : 118.90000000000001,
+        "ns" : 0,
+        "title" : "Hotel Union Square",
+        "lon" : -122.40777,
+        "lat" : 37.78586
+      },
+      {
+        "pageid" : 26956056,
+        "primary" : "",
+        "dist" : 135.09999999999999,
+        "ns" : 0,
+        "title" : "Flood Building",
+        "lon" : -122.4074,
+        "lat" : 37.7849
+      },
+      {
+        "pageid" : 12030429,
+        "primary" : "",
+        "dist" : 136,
+        "ns" : 0,
+        "title" : "Bernstein's Fish Grotto",
+        "lon" : -122.40796,
+        "lat" : 37.78593
+      },
+      {
+        "pageid" : 5700832,
+        "primary" : "",
+        "dist" : 157.30000000000001,
+        "ns" : 0,
+        "title" : "The Emporium (San Francisco)",
+        "lon" : -122.40638,
+        "lat" : 37.784419999999997
+      },
+      {
+        "pageid" : 17153363,
+        "primary" : "",
+        "dist" : 177.69999999999999,
+        "ns" : 0,
+        "title" : "City of Paris Dry Goods Co.",
+        "lon" : -122.406464,
+        "lat" : 37.787432000000003
+      },
+      {
+        "pageid" : 9292561,
+        "primary" : "",
+        "dist" : 185.30000000000001,
+        "ns" : 0,
+        "title" : "Four Seasons Hotel, San Francisco",
+        "lon" : -122.404417,
+        "lat" : 37.786360999999999
+      },
+      {
+        "pageid" : 26956097,
+        "primary" : "",
+        "dist" : 211.19999999999999,
+        "ns" : 0,
+        "title" : "Hallidie Plaza",
+        "lon" : -122.40805555555556,
+        "lat" : 37.784444444444439
+      },
+      {
+        "pageid" : 13572501,
+        "primary" : "",
+        "dist" : 213.09999999999999,
+        "ns" : 0,
+        "title" : "San Francisco Marriott Marquis",
+        "lon" : -122.40430000000001,
+        "lat" : 37.7849
+      },
+      {
+        "pageid" : 11888195,
+        "primary" : "",
+        "dist" : 217.80000000000001,
+        "ns" : 0,
+        "title" : "Contemporary Jewish Museum",
+        "lon" : -122.40394000000001,
+        "lat" : 37.785769999999999
+      },
+      {
+        "pageid" : 4364644,
+        "primary" : "",
+        "dist" : 227.59999999999999,
+        "ns" : 0,
+        "title" : "Westfield San Francisco Centre",
+        "lon" : -122.40722222222223,
+        "lat" : 37.783888888888889
+      },
+      {
+        "pageid" : 16085764,
+        "primary" : "",
+        "dist" : 242.09999999999999,
+        "ns" : 0,
+        "title" : "Alcazar Theatre (1911)",
+        "lon" : -122.4091,
+        "lat" : 37.78633
+      },
+      {
+        "pageid" : 1511562,
+        "primary" : "",
+        "dist" : 246.90000000000001,
+        "ns" : 0,
+        "title" : "Powell Street station",
+        "lon" : -122.408,
+        "lat" : 37.783999999999999
+      },
+      {
+        "pageid" : 50808659,
+        "primary" : "",
+        "dist" : 253.40000000000001,
+        "ns" : 0,
+        "title" : "Hotel Nikko San Francisco",
+        "lon" : -122.4093,
+        "lat" : 37.785800000000002
+      },
+      {
+        "pageid" : 38548042,
+        "primary" : "",
+        "dist" : 255.5,
+        "ns" : 0,
+        "title" : "Dewey Monument",
+        "lon" : -122.40755,
+        "lat" : 37.787950000000002
+      },
+      {
+        "pageid" : 67951209,
+        "primary" : "",
+        "dist" : 256.39999999999998,
+        "ns" : 0,
+        "title" : "Parc 55 San Francisco",
+        "lon" : -122.408910702087,
+        "lat" : 37.784637714148879
+      },
+      {
+        "pageid" : 23601057,
+        "primary" : "",
+        "dist" : 256.5,
+        "ns" : 0,
+        "title" : "Maiden Lane (San Francisco)",
+        "lon" : -122.40601944444445,
+        "lat" : 37.78811944444444
+      },
+      {
+        "pageid" : 18171533,
+        "primary" : "",
+        "dist" : 257.10000000000002,
+        "ns" : 0,
+        "title" : "St. Patrick's Catholic Church, San Francisco",
+        "lon" : -122.403508,
+        "lat" : 37.785587999999997
+      },
+      {
+        "pageid" : 41873308,
+        "primary" : "",
+        "dist" : 264.69999999999999,
+        "ns" : 0,
+        "title" : "Street Artists Program of San Francisco",
+        "lon" : -122.4075,
+        "lat" : 37.788055555555552
+      },
+      {
+        "pageid" : 1429857,
+        "primary" : "",
+        "dist" : 264.69999999999999,
+        "ns" : 0,
+        "title" : "Union Square, San Francisco",
+        "lon" : -122.4075,
+        "lat" : 37.788055555555552
+      },
+      {
+        "pageid" : 13957476,
+        "primary" : "",
+        "dist" : 270,
+        "ns" : 0,
+        "title" : "Central Tower (San Francisco)",
+        "lon" : -122.40386100000001,
+        "lat" : 37.787180999999997
+      },
+      {
+        "pageid" : 11692241,
+        "primary" : "",
+        "dist" : 271,
+        "ns" : 0,
+        "title" : "Westin St. Francis",
+        "lon" : -122.4084,
+        "lat" : 37.787700000000001
+      },
+      {
+        "pageid" : 40693052,
+        "primary" : "",
+        "dist" : 279.5,
+        "ns" : 0,
+        "title" : "The McLoughlin Gallery",
+        "lon" : -122.40427777777778,
+        "lat" : 37.78769444444444
+      },
+      {
+        "pageid" : 6161533,
+        "primary" : "",
+        "dist" : 279.69999999999999,
+        "ns" : 0,
+        "title" : "V. C. Morris Gift Shop",
+        "lon" : -122.405889,
+        "lat" : 37.788314999999997
+      },
+      {
+        "pageid" : 25907636,
+        "primary" : "",
+        "dist" : 302.69999999999999,
+        "ns" : 0,
+        "title" : "Park Central Hotel San Francisco",
+        "lon" : -122.40309000000001,
+        "lat" : 37.786540000000002
+      },
+      {
+        "pageid" : 1826429,
+        "primary" : "",
+        "dist" : 309.10000000000002,
+        "ns" : 0,
+        "title" : "Metreon",
+        "lon" : -122.403424,
+        "lat" : 37.784374
+      },
+      {
+        "pageid" : 1658108,
+        "primary" : "",
+        "dist" : 311.89999999999998,
+        "ns" : 0,
+        "title" : "Walk of Game",
+        "lon" : -122.40333333333334,
+        "lat" : 37.784444444444439
+      },
+      {
+        "pageid" : 49454792,
+        "primary" : "",
+        "dist" : 318.39999999999998,
+        "ns" : 0,
+        "title" : "Four Seasons Private Residences at 706 Mission Street",
+        "lon" : -122.4028,
+        "lat" : 37.786000000000001
+      },
+      {
+        "pageid" : 15360910,
+        "primary" : "",
+        "dist" : 322,
+        "ns" : 0,
+        "title" : "Ambassador Hotel (San Francisco)",
+        "lon" : -122.40935899999999,
+        "lat" : 37.784108000000003
+      },
+      {
+        "pageid" : 34054316,
+        "primary" : "",
+        "dist" : 325.89999999999998,
+        "ns" : 0,
+        "title" : "Tiffany Building (San Francisco)",
+        "lon" : -122.40768,
+        "lat" : 37.788589999999999
+      },
+      {
+        "pageid" : 1284671,
+        "primary" : "",
+        "dist" : 328.39999999999998,
+        "ns" : 0,
+        "title" : "Yerba Buena Gardens",
+        "lon" : -122.402691,
+        "lat" : 37.785606999999999
+      },
+      {
+        "pageid" : 53117500,
+        "primary" : "",
+        "dist" : 329.89999999999998,
+        "ns" : 0,
+        "title" : "Market and 3rd Street \/ Market and Kearny stations",
+        "lon" : -122.4034,
+        "lat" : 37.787599999999998
+      },
+      {
+        "pageid" : 60127949,
+        "primary" : "",
+        "dist" : 340.5,
+        "ns" : 0,
+        "title" : "George Haas & Sons",
+        "lon" : -122.40666666666667,
+        "lat" : 37.782777777777774
+      },
+      {
+        "pageid" : 11743365,
+        "primary" : "",
+        "dist" : 340.69999999999999,
+        "ns" : 0,
+        "title" : "Pinecrest Diner",
+        "lon" : -122.409998,
+        "lat" : 37.787008999999998
+      },
+      {
+        "pageid" : 5215047,
+        "primary" : "",
+        "dist" : 344.5,
+        "ns" : 0,
+        "title" : "Ruby Skye",
+        "lon" : -122.40972222222223,
+        "lat" : 37.787500000000001
+      },
+      {
+        "pageid" : 2625463,
+        "primary" : "",
+        "dist" : 347.10000000000002,
+        "ns" : 0,
+        "title" : "San Francisco Mint",
+        "lon" : -122.40722222222223,
+        "lat" : 37.782777777777774
+      },
+      {
+        "pageid" : 4011614,
+        "primary" : "",
+        "dist" : 349,
+        "ns" : 0,
+        "title" : "Lotta's Fountain",
+        "lon" : -122.40361111111112,
+        "lat" : 37.788055555555552
+      },
+      {
+        "pageid" : 58387274,
+        "primary" : "",
+        "dist" : 351.5,
+        "ns" : 0,
+        "title" : "Newspaper Row (San Francisco)",
+        "lon" : -122.40334722222222,
+        "lat" : 37.787861111111113
+      },
+      {
+        "pageid" : 31268726,
+        "primary" : "",
+        "dist" : 352.19999999999999,
+        "ns" : 0,
+        "title" : "San Francisco School of Digital Filmmaking",
+        "lon" : -122.40652799999999,
+        "lat" : 37.782668000000001
+      },
+      {
+        "pageid" : 40382608,
+        "primary" : "",
+        "dist" : 355.80000000000001,
+        "ns" : 0,
+        "title" : "Ruth Asawa's San Francisco Fountain",
+        "lon" : -122.407,
+        "lat" : 37.789000000000001
+      },
+      {
+        "pageid" : 2606338,
+        "primary" : "",
+        "dist" : 364.60000000000002,
+        "ns" : 0,
+        "title" : "American Conservatory Theater",
+        "lon" : -122.410286,
+        "lat" : 37.787016999999999
+      },
+      {
+        "pageid" : 9133519,
+        "primary" : "",
+        "dist" : 366.60000000000002,
+        "ns" : 0,
+        "title" : "Yerba Buena Center for the Arts",
+        "lon" : -122.40228399999999,
+        "lat" : 37.785389000000002
+      },
+      {
+        "pageid" : 15547651,
+        "primary" : "",
+        "dist" : 371.19999999999999,
+        "ns" : 0,
+        "title" : "Grand Hyatt San Francisco",
+        "lon" : -122.40723,
+        "lat" : 37.789110000000001
+      },
+      {
+        "pageid" : 58965188,
+        "primary" : "",
+        "dist" : 379.39999999999998,
+        "ns" : 0,
+        "title" : "Monadnock Building (San Francisco)",
+        "lon" : -122.40285119552361,
+        "lat" : 37.787757919905367
+      },
+      {
+        "pageid" : 10667263,
+        "primary" : "",
+        "dist" : 385.5,
+        "ns" : 0,
+        "title" : "Forbidden City (nightclub)",
+        "lon" : -122.4063,
+        "lat" : 37.789299999999997
+      },
+      {
+        "pageid" : 45416689,
+        "primary" : "",
+        "dist" : 386,
+        "ns" : 0,
+        "title" : "Sutter Cinema",
+        "lon" : -122.40641666666667,
+        "lat" : 37.789305555555551
+      }
+    ]
+  },
+  "batchcomplete" : ""
+}

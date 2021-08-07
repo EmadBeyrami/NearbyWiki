@@ -1,0 +1,25 @@
+{
+  "query" : {
+    "pages" : {
+      "38503620" : {
+        "pageid" : 38503620,
+        "pagelanguagedir" : "ltr",
+        "lastrevid" : 960297453,
+        "length" : 3394,
+        "title" : "John's Grill",
+        "contentmodel" : "wikitext",
+        "pagelanguage" : "en",
+        "ns" : 0,
+        "pagelanguagehtmlcode" : "en",
+        "touched" : "2021-07-29T03:54:07Z",
+        "thumbnail" : {
+          "width" : 39,
+          "height" : 50,
+          "source" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/49\/John%27s_Grill_exterior_2.jpg\/39px-John%27s_Grill_exterior_2.jpg"
+        },
+        "pageimage" : "John's_Grill_exterior_2.jpg"
+      }
+    }
+  },
+  "batchcomplete" : ""
+}

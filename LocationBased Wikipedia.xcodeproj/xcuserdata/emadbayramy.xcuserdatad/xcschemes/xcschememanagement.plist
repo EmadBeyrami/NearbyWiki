@@ -7,7 +7,25 @@
 		<key>LocationBased Wikipedia.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7B4F0DEA26B533E7000BBA0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B4F0E0026B533EA000BBA0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B4F0E0B26B533EA000BBA0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
