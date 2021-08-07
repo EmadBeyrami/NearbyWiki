@@ -1,5 +1,4 @@
-# Nearby Wiki
-## Neary Wikipedia article with MVVM + Reactive + Coordinator Architect
+# Neary Wikipedia article with MVVM + Reactive + Coordinator Architect
 Nearby Wiki is an app which works with GoogleMap and Wikipedia APIs to generate location based Articles and get directions.
 
 ## To run the project:
@@ -14,4 +13,7 @@ Nearby Wiki is an app which works with GoogleMap and Wikipedia APIs to generate 
 - Have two Enviroments: Development and Production
 - Unit Tests
 - Modularized
+- Modularized Map
+- Animatable Place Marker
+- Custom map styled
 - Swiftlint Implemented
