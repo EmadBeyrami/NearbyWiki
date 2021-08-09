@@ -36,7 +36,16 @@ class AppCoordinator: NSObject, Coordinator {
         
         let mainView = MapViewController.instantiate(coordinator: self)
         navigationController.pushViewController(mainView, animated: true)
+    }
+    
+    func reStart() {
+        guard let window = window else { return }
         
+        window.rootViewController = navigationController
+        window.makeKeyAndVisible()
+        
+        let mainView = MapViewController.instantiate(coordinator: self)
+        navigationController.removeAllViewControllersAndPush(viewController: mainView, animated: true)
     }
     
     // To detail modal scene
@@ -60,7 +69,7 @@ class AppCoordinator: NSObject, Coordinator {
         
         window?.rootViewController?.dismiss(animated: false, completion: nil)
         
-        self.start()
+        self.reStart()
     }
 }
 

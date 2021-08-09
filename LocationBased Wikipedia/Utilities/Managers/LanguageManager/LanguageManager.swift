@@ -75,7 +75,7 @@ extension SupportedLanguages {
         case .finnish:
             return "Suomi"
         case .spanish:
-            return "Deutsch"
+            return "Spanish"
         }
     }
     
@@ -86,7 +86,7 @@ extension SupportedLanguages {
         case .finnish:
             return "fi"
         case .spanish:
-            return "es-ES"
+            return "es"
         }
     }
     

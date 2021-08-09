@@ -11,14 +11,16 @@ import Foundation
 enum LocalizedStrings: String {
     
     case locationError
-    case nearbyArticles = "Nearby Articles"
-    case getThere = "Get there"
-    case pageIdNotValid = "Page ID is not Valid"
-    case routeSuggestion = "Route suggestions"
-    case couldntFindDest = "Destination Couldn't found"
-    case tryagain = "Try again"
+    case nearbyArticles = "Nearby_Articles"
+    case getThere = "Get_there"
+    case pageIdNotValid = "Page_Id_Not_Valid"
+    case routeSuggestion = "Route_suggestions"
+    case couldntFindDest = "cant_find_dest"
+    case changeLang = "Change_Lang"
+    case tryagain = "TryAgain"
     case error = "Error"
     case ok = "OK"
+    case cancel
 
     var value: String {
         return localized(key: self.rawValue)

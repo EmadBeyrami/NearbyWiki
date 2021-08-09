@@ -69,6 +69,7 @@
 		7B8ED36926B999BD00535EC1 /* PopPlaceDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8ED36826B999BD00535EC1 /* PopPlaceDetailViewModel.swift */; };
 		7B8ED36C26B999F600535EC1 /* GeneralTypeAlias.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8ED36B26B999F600535EC1 /* GeneralTypeAlias.swift */; };
 		7B8ED36F26B99C7000535EC1 /* UIImageView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8ED36E26B99C7000535EC1 /* UIImageView+Extensions.swift */; };
+		7B9CB74B26C0A595009F08B6 /* UINavigationController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9CB74A26C0A595009F08B6 /* UINavigationController+Extensions.swift */; };
 		7BC430CE26BD47B300497863 /* Test_AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC430CD26BD47B300497863 /* Test_AppCoordinator.swift */; };
 		7BC430D226BD7F2100497863 /* UnitTestError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC430D126BD7F2100497863 /* UnitTestError.swift */; };
 		7BC430D526BD7FC800497863 /* Test_PlaceServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BC430D426BD7FC800497863 /* Test_PlaceServiceTests.swift */; };
@@ -87,7 +88,7 @@
 		7BDA9F8426BD2E3B00E3462B /* Bundle+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDA9F8326BD2E3B00E3462B /* Bundle+Extensions.swift */; };
 		7BDA9F8626BD340700E3462B /* GoogleMapStyleBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDA9F8526BD340700E3462B /* GoogleMapStyleBuilder.swift */; };
 		7BDA9F8826BD34F700E3462B /* MapStyle.json in Resources */ = {isa = PBXBuildFile; fileRef = 7BDA9F8726BD34F700E3462B /* MapStyle.json */; };
-		7BDA9F8D26BD39B800E3462B /* Localization.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7BDA9F8F26BD39B800E3462B /* Localization.strings */; };
+		7BDA9F8D26BD39B800E3462B /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7BDA9F8F26BD39B800E3462B /* Localizable.strings */; };
 		FCE3BB617A4019E03D69E121 /* Pods_LocationBased_Wikipedia_LocationBased_WikipediaUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF70A1C64406C163CDD14B6E /* Pods_LocationBased_Wikipedia_LocationBased_WikipediaUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -182,6 +183,7 @@
 		7B8ED36826B999BD00535EC1 /* PopPlaceDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopPlaceDetailViewModel.swift; sourceTree = "<group>"; };
 		7B8ED36B26B999F600535EC1 /* GeneralTypeAlias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralTypeAlias.swift; sourceTree = "<group>"; };
 		7B8ED36E26B99C7000535EC1 /* UIImageView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extensions.swift"; sourceTree = "<group>"; };
+		7B9CB74A26C0A595009F08B6 /* UINavigationController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UINavigationController+Extensions.swift"; sourceTree = "<group>"; };
 		7BC430CD26BD47B300497863 /* Test_AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_AppCoordinator.swift; sourceTree = "<group>"; };
 		7BC430D126BD7F2100497863 /* UnitTestError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestError.swift; sourceTree = "<group>"; };
 		7BC430D426BD7FC800497863 /* Test_PlaceServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_PlaceServiceTests.swift; sourceTree = "<group>"; };
@@ -200,9 +202,9 @@
 		7BDA9F8326BD2E3B00E3462B /* Bundle+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+Extensions.swift"; sourceTree = "<group>"; };
 		7BDA9F8526BD340700E3462B /* GoogleMapStyleBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleMapStyleBuilder.swift; sourceTree = "<group>"; };
 		7BDA9F8726BD34F700E3462B /* MapStyle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MapStyle.json; sourceTree = "<group>"; };
-		7BDA9F8E26BD39B800E3462B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localization.strings; sourceTree = "<group>"; };
-		7BDA9F9026BD39BB00E3462B /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localization.strings; sourceTree = "<group>"; };
-		7BDA9F9126BD39BE00E3462B /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localization.strings; sourceTree = "<group>"; };
+		7BDA9F8E26BD39B800E3462B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7BDA9F9026BD39BB00E3462B /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7BDA9F9126BD39BE00E3462B /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		9A77185077FCE233F404A92B /* Pods_LocationBased_Wikipedia.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LocationBased_Wikipedia.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D19D732CEE33F268CF395401 /* Pods-LocationBased Wikipedia.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocationBased Wikipedia.release.xcconfig"; path = "Target Support Files/Pods-LocationBased Wikipedia/Pods-LocationBased Wikipedia.release.xcconfig"; sourceTree = "<group>"; };
 		DD5C1167EFA23C2658DEC860 /* Pods-LocationBased WikipediaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocationBased WikipediaTests.release.xcconfig"; path = "Target Support Files/Pods-LocationBased WikipediaTests/Pods-LocationBased WikipediaTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -629,6 +631,7 @@
 			children = (
 				7B71224E26B6BDD700309EC2 /* LoadingViewable.swift */,
 				7BD87EA026BAF90100019EC0 /* UIColor+Extensions.swift */,
+				7B9CB74A26C0A595009F08B6 /* UINavigationController+Extensions.swift */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -841,7 +844,7 @@
 			children = (
 				7BDA9F8726BD34F700E3462B /* MapStyle.json */,
 				7B4F0DF726B533EA000BBA0A /* Assets.xcassets */,
-				7BDA9F8F26BD39B800E3462B /* Localization.strings */,
+				7BDA9F8F26BD39B800E3462B /* Localizable.strings */,
 			);
 			path = SupportingFiles;
 			sourceTree = "<group>";
@@ -983,7 +986,7 @@
 			files = (
 				7B4F0DFB26B533EA000BBA0A /* LaunchScreen.storyboard in Resources */,
 				7B71223526B5E4C300309EC2 /* MarkerAnimationView.xib in Resources */,
-				7BDA9F8D26BD39B800E3462B /* Localization.strings in Resources */,
+				7BDA9F8D26BD39B800E3462B /* Localizable.strings in Resources */,
 				7B4F0DF826B533EA000BBA0A /* Assets.xcassets in Resources */,
 				7BDA9F8826BD34F700E3462B /* MapStyle.json in Resources */,
 				7B4F0DF626B533E7000BBA0A /* Map.storyboard in Resources */,
@@ -1201,6 +1204,7 @@
 				7B71222226B5DFBC00309EC2 /* MarkerCreatorBuilder.swift in Sources */,
 				7B71225526B6E7C300309EC2 /* CoreLocation+LongAndLat.swift in Sources */,
 				7B71224226B6A40F00309EC2 /* BaseModel.swift in Sources */,
+				7B9CB74B26C0A595009F08B6 /* UINavigationController+Extensions.swift in Sources */,
 				7B71223326B5E36600309EC2 /* PulseAnimation.swift in Sources */,
 				7BDA9F8426BD2E3B00E3462B /* Bundle+Extensions.swift in Sources */,
 				7B4F0E3C26B53931000BBA0A /* Bundle+SetLanguage.swift in Sources */,
@@ -1288,14 +1292,14 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		7BDA9F8F26BD39B800E3462B /* Localization.strings */ = {
+		7BDA9F8F26BD39B800E3462B /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
 				7BDA9F8E26BD39B800E3462B /* en */,
 				7BDA9F9026BD39BB00E3462B /* fi */,
 				7BDA9F9126BD39BE00E3462B /* es */,
 			);
-			name = Localization.strings;
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

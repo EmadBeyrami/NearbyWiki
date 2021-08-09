@@ -32,10 +32,25 @@ class MapViewController: BaseVC, Storyboarded {
     
     // MARK: - View Setup
     private func setupView() {
-        title = LocalizedStrings.nearbyArticles.value
+        setupNavigation()
         setupBindings()
         setupResponseBindings()
         setuptMapView()
+    }
+    
+    private func setupNavigation() {
+        title = LocalizedStrings.nearbyArticles.value
+        let langImage = UIImage(systemName: "network")
+        let languageBarBtn = UIBarButtonItem(image: langImage,
+                                             style: .plain,
+                                             target: self,
+                                             action: #selector(changeLanguage))
+        navigationItem.rightBarButtonItem = languageBarBtn
+    }
+    
+    // MARK: - Language manager button
+    @objc func changeLanguage() {
+        self.present(changeLanguageAlertController, animated: true, completion: nil)
     }
     
     // MARK: - MAP Related
@@ -89,6 +104,12 @@ class MapViewController: BaseVC, Storyboarded {
             guard let self = self else { return }
             let stringId = "\(id)"
             self.coordinateToDetail(pageID: stringId)
+        }
+        
+        self.userChangedLanguageHandler = { [weak self] language in
+            guard let self = self else { return }
+            LanguageManager.shared.currentLanguage = language
+            self.coordinator?.userChangedLanguage()
         }
     }
     

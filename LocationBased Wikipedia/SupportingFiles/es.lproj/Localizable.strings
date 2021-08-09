@@ -1,0 +1,19 @@
+/* 
+  Localization.strings
+  LocationBased Wikipedia
+
+  Created by Emad Bayramy on 8/6/21.
+  
+*/
+"Nearby_Articles" = "Artículos cercanos";
+"Get_there" = "Ir allí";
+"Route_suggestions" = "Sugerencias de ruta";
+"Page_Id_Not_Valid" = "El ID de la página no es válido";
+"cant_find_dest" = "Destino no se pudo encontrar";
+"Change_Lang" =  "Cambiar idioma";
+"TryAgain" = "Intentar otra vez";
+"Error" = "Error";
+"OK" = "Ok";
+"cancel" = "cancelar";
+"locationError" = "Requesting your location is not allowed. Please go to setting and activate app location services";
+
